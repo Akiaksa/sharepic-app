@@ -1,0 +1,65 @@
+body {
+    background-color: AABBCC;
+}
+.LoginPage {
+    display: flex;
+    margin-top: 10px;
+    margin-left: -65px;
+    margin-right: 30px;
+}
+.LeftImage{
+    margin-top: 15px;
+    padding-top: 15px;
+    width: 330px;
+}
+.LoginDetails{
+    width: 350px;
+    padding-bottom: 25px;
+    border: 1px solid #DBDBDB;
+    margin-top: 35px;
+    text-align: center;
+    background-color: white;
+}
+.app_logo{
+    width: 200px;
+    margin-top: 25px;
+    
+}
+.SignIn{
+    margin-top: 25px;
+}
+.textDetails{
+    width:258px;
+    height: 36px;
+    margin:5px;
+    border: 1px solid #DBDBDB;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.SignInButton{
+    margin:10px;
+    width:258px;
+    height: 36px;
+    font-weight: bold;
+    border:1px solid #0395F6;
+    background-color: #0395F6;
+    color: white;
+}
+.SignUp{
+    margin-top: 25px;
+    height: 55px;
+    width: 350px;
+    background-color: white;
+    border: 1px solid #DBDBDB;
+    text-align: center;
+}
+.SignUpOption{
+    margin-top: 20px;
+
+}
+.SignInOption{
+    margin-top: 20px;
+
+}
+    
